@@ -3,7 +3,7 @@
 ###
 [versions]
 commons        = "1.7.0"
-selenium       = "4.28.0"
+selenium       = "4.28.1"
 appium         = "9.3.0"
 selenide       = "7.7.1"
 slf4j          = "2.0.16"
